@@ -32,12 +32,12 @@ This repository contains a comprehensive Jupyter Notebook exploring graph and tr
     ```bash
     python -m venv venv
     ```
+    ### On Windows
     ```bash
-    # On Windows
     .\venv\Scripts\activate
     ```
+    ### On macOS/Linux
     ```bash
-    # On macOS/Linux
     source venv/bin/activate
     ```
 
