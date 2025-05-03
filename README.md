@@ -69,6 +69,6 @@ This repository contains a comprehensive Jupyter Notebook exploring graph and tr
 - Github: [iPriyadarshi](https://www.github.com/iPriyadarshi/)
 
 ## 📝 License
-This project is licensed under © 2024 Priyadarshi Kumar. All rights reserved.
+This project is licensed under © 2025 Priyadarshi Kumar. All rights reserved.
 
 For educational purposes only. Redistribution or commercial use is prohibited without permission.
